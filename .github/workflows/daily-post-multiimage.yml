@@ -28,7 +28,7 @@ jobs:
           WP_BASE_URL: ${{ secrets.WP_BASE_URL }}
           WP_USERNAME: ${{ secrets.WP_USERNAME }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
-          POST_STATUS: draft
+          POST_STATUS: publish
           SITE_TOPIC: "Arts and crafts, craft ideas"
           SITE_VOICE: "like a knowledgeable friend texting you a tip, a little wry, not afraid to admit when something's annoying or overrated"
           SITE_INSTRUCTIONS: |
