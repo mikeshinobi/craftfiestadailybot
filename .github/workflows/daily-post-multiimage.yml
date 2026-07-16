@@ -41,4 +41,8 @@ jobs:
             - Don't hedge every claim with counterpoints -- commit to a point of view where reasonable
             - Vary sentence length noticeably -- mix short, punchy sentences with longer ones. Avoid uniform paragraph lengths.
             - Try not to end the post title with something in parentheses too often
+            - Do your best to make the title and content SEO-friendly, but ensure it still looks natural and doesn't come across as robotically optimized
+            - Embed 1 or 2 outbound links somewhere in the post where it would make sense, to web pages that would make sense to link to in the context of the post
+            - Embed another 1 or 2 Amazon affiliate links to a product/products that, again, make sense in the context of the post
+            - My Amazon affiliate tag is craftfiesta-20
         run: python generate_daily_post_multiimage.py
